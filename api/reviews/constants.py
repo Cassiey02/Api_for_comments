@@ -1,0 +1,3 @@
+COUNT_CHARACTERS: int = 15
+ONE_POINT: int = 1
+TEN_POINTS: int = 10
